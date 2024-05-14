@@ -3,6 +3,7 @@ import sys
 from car_setup import CarSetup
 from practice_lap import PracticeLap
 from qualy_data import QualyData
+from racing_lap import RacingLap
 
 
 def _extract_pertinent_lines(source, key_to_end):
@@ -51,7 +52,10 @@ def _process_qualy(setups_used, risks_used, lap_times):
 
 
 def _process_race_laps(laps):
-    return None
+    racing_laps = []
+    for lap in laps:
+        racing_laps.append(RacingLap(lap.split('\t')))
+    return racing_laps
 
 
 if __name__ == "__main__":
@@ -73,5 +77,5 @@ if __name__ == "__main__":
                                                 data['Risks used'],
                                                 data['Lap times'])
     race_laps = _process_race_laps(data['Lap	Lap time	Pos'])
-    print(qualy_data_1)
-    print(qualy_data_2)
+    for x in race_laps:
+        print(str(x))
