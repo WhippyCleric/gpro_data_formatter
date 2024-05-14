@@ -1,0 +1,217 @@
+Practice laps data
+Lap	Lap time	Driver mistake	Net time	Settings
+FWing	RWing	Engine	Brakes	Gear	Susp	Tyres	Comm
+1	1:10.872s	0.323s	1:10.549s	537	354	756	365	774	672	Medium	
+2	1:10.969s	0.420s	1:10.549s	537	354	756	365	774	672	Medium	
+3	1:10.874s	0.325s	1:10.549s	547	364	756	365	774	672	Medium	
+4	1:10.789s	0.240s	1:10.549s	547	364	756	365	774	672	Medium	
+5	1:10.884s	0.335s	1:10.549s	547	364	756	365	774	672	Medium	
+6	1:10.975s	0.426s	1:10.549s	547	364	756	365	774	672	Medium	
+7	1:10.991s	0.442s	1:10.549s	547	364	756	365	774	672	Medium	
+8	1:11.212s	0.663s	1:10.549s	547	364	756	365	774	672	Medium	
+Practice lap 8 comments from your driver:
+
+I am satisfied with the setup of the car
+
+
+Car wear & lap information
+Car parts level
+Cha	Eng	FWing	RWing	Underb	Sidep	Cool	Gear	Bra	Susp	Elec
+1	1	1	1	1	1	1	1	1	1	1
+Car parts wear (at the start)
+0%	0%	0%	0%	0%	0%	0%	0%	0%	0%	0%
+Car parts wear (at the finish)
+24%	47%	25%	30%	28%	16%	18%	27%	40%	23%	13%
+Lap	Lap time	Pos	Tyres	Weather	Temp	Hum	Events
+0	-	2	Medium	Partially Cloudy	20°	32%	-
+1	1:15.689	4	Medium	Partially Cloudy	20°	32%	-
+2	1:11.554	3	Medium	Partially Cloudy	20°	32%	-
+3	1:11.924	3	Medium	Partially Cloudy	20°	32%	-
+4	1:10.606	3	Medium	Partially Cloudy	20°	32%	-
+5B	1:10.404	2	Medium	Partially Cloudy	20°	32%	-
+6	1:09.680	2	Medium	Partially Cloudy	20°	32%	-
+7	1:10.361	1	Medium	Partially Cloudy	20°	32%	-
+8	1:10.419	1	Medium	Partially Cloudy	20°	32%	-
+9	1:10.275	1	Medium	Partially Cloudy	20°	32%	-
+10	1:10.579	1	Medium	Partially Cloudy	20°	32%	-
+11	1:10.462	1	Medium	Partially Cloudy	20°	32%	-
+12	1:10.680	1	Medium	Partially Cloudy	20°	32%	-
+13	1:10.382	1	Medium	Partially Cloudy	20°	32%	-
+14	1:10.235	1	Medium	Partially Cloudy	20°	32%	-
+15	1:10.222	1	Medium	Partially Cloudy	20°	32%	-
+16	1:09.836	1	Medium	Partially Cloudy	20°	32%	-
+17	1:10.421	1	Medium	Partially Cloudy	20°	32%	-
+18	1:10.231	1	Medium	Partially Cloudy	20°	32%	-
+19	1:10.054	1	Medium	Partially Cloudy	20°	32%	-
+20	1:10.059	1	Medium	Partially Cloudy	20°	32%	-
+21	1:10.171	1	Medium	Cloudy	20°	32%	-
+22	1:09.731	1	Medium	Cloudy	20°	32%	-
+23	1:09.916	1	Medium	Cloudy	20°	32%	-
+24	1:09.569	1	Medium	Cloudy	20°	32%	-
+25	1:09.671	1	Medium	Cloudy	20°	32%	-
+26	1:09.349	1	Medium	Cloudy	20°	32%	-
+27	1:19.478	1	Medium(W)	Cloudy	20°	32%	Pit
+28	1:44.435	3	Medium	Cloudy	20°	31%	-
+29	1:10.431	2	Medium	Cloudy	20°	30%	-
+30	1:10.702	2	Medium	Cloudy	20°	30%	-
+31	1:10.295	1	Medium	Cloudy	20°	30%	-
+32	1:10.742	1	Medium	Cloudy	20°	30%	-
+33	1:10.619	1	Medium	Cloudy	20°	30%	-
+34	1:10.245	1	Medium	Cloudy	20°	30%	-
+35B	1:09.381	1	Medium	Cloudy	21°	30%	-
+36	1:09.361	1	Medium	Cloudy	21°	30%	-
+37	1:09.691	1	Medium	Cloudy	21°	30%	-
+38	1:10.233	1	Medium	Cloudy	21°	30%	-
+39	1:09.714	1	Medium	Cloudy	21°	30%	-
+40	1:09.848	1	Medium	Cloudy	21°	30%	-
+41	1:09.559	1	Medium	Cloudy	21°	30%	-
+42	1:09.835	1	Medium	Partially Cloudy	21°	30%	-
+43	1:09.575	1	Medium	Partially Cloudy	21°	30%	-
+44	1:09.492	1	Medium	Partially Cloudy	21°	30%	-
+45	1:09.428	1	Medium	Partially Cloudy	21°	30%	-
+46	1:09.411	1	Medium	Partially Cloudy	20°	30%	-
+47	1:09.862	1	Medium	Partially Cloudy	20°	30%	-
+48	1:09.519	1	Medium	Partially Cloudy	19°	30%	-
+49	1:09.619	1	Medium	Partially Cloudy	18°	30%	-
+50	1:09.509	1	Medium	Partially Cloudy	18°	30%	-
+51	1:09.823	1	Medium	Partially Cloudy	18°	30%	-
+52	1:09.266	1	Medium	Partially Cloudy	18°	30%	-
+53	1:18.955	1	Medium(W)	Partially Cloudy	18°	30%	Pit
+54	1:45.355	2	Medium	Partially Cloudy	18°	30%	-
+55	1:10.445	2	Medium	Partially Cloudy	17°	30%	-
+56	1:10.362	1	Medium	Partially Cloudy	18°	30%	-
+57	1:10.307	1	Medium	Partially Cloudy	18°	30%	-
+58	1:10.352	1	Medium	Partially Cloudy	19°	30%	-
+59	1:10.436	1	Medium	Partially Cloudy	19°	30%	-
+60	1:10.175	1	Medium	Partially Cloudy	20°	30%	-
+61	1:10.234	1	Medium	Partially Cloudy	21°	30%	-
+62	1:09.691	1	Medium	Partially Cloudy	21°	30%	-
+63	1:09.494	1	Medium	Partially Cloudy	21°	30%	-
+64	1:09.977	1	Medium	Partially Cloudy	21°	30%	-
+65B	1:08.700	1	Medium	Partially Cloudy	21°	30%	-
+66	1:08.465	1	Medium	Partially Cloudy	21°	30%	-
+67	1:08.998	1	Medium	Partially Cloudy	21°	30%	-
+68	1:09.817	1	Medium	Partially Cloudy	21°	30%	-
+69	1:09.109	1	Medium	Partially Cloudy	21°	30%	-
+70	1:09.540	1	Medium	Partially Cloudy	20°	30%	-
+71	1:09.510	1	Medium	Partially Cloudy	20°	30%	-
+72	1:09.560	1	Medium	Partially Cloudy	19°	30%	-
+73	1:09.538	1	Medium	Partially Cloudy	18°	30%	-
+74	1:09.374	1	Medium	Partially Cloudy	17°	30%	-
+75	1:09.277	1	Medium	Partially Cloudy	16°	30%	-
+76	1:08.939	1	Medium	Partially Cloudy	16°	30%	-
+77	1:09.126	1	Medium	Partially Cloudy	16°	30%	-
+78	1:09.287	1	Medium	Partially Cloudy	16°	30%	-
+79	1:09.119	1	Medium	Partially Cloudy	16°	30%	-
+
+Download race analysis as Excel sheet
+
+Race information
+Lap times
+Qualification 1	Qualification 2
+1:10.694s (#4)	1:12.393s (#1)
+
+Setups used
+Session	FWing	RWing	Eng	Bra	Gear	Susp	Tyres
+Q1	547	364	756	365	774	672	Medium
+Q2	552	370	753	371	770	666	Medium
+Race	552	370	753	371	770	666	Medium
+
+Risks used
+Q1 risk		Q2 risk
+Push the car a little	Push the car a little
+Starting risk
+Overtake where possible
+Overtake	Defend	Clear & dry	Clear & wet	Malfunct
+10	10	10	5	0
+
+Driver attributes
+Driver name	OA	Con	Tal	Agr	Exp	TeI	Sta	Cha	Mot	Rep	Wei
+Roger Zamparelli	78	195	68	0	48	39	70	151	52	8	82
+(+5)	(0)	(0)	(0)	(+1)	(+1)	(0)	(0)	(+47)	(+4)	(0)
+
+Driver energy
+Q1
+100%	    	98%
+Q2
+98%	    	97%
+Race 
+100%	    	80%
+
+Positions
+Start	Finish
+2	1
+Overall car character
+Power	Handling	Acceleration
+13	13	13
+
+Tyre supplier
+Pipirelli Pipirelli
+Peak temperature:	
+31°
+Dry performance:	
+
+Wet performance:	
+
+Durability:	
+
+Warmup distance:	
+
+
+Sessions weather
+Practice / Qualify 1	Qualify 2 / Race start
+Cloudy
+Temp: 19°C
+Humidity: 35%	Partially cloudy
+Temp: 20°C
+Humidity: 32%
+Race forecast
+Start - 0h30m	0h30m - 1h
+Temp: 20° - 24°
+Humidity: 32% - 41%
+Rain probability: 0% - 10%	Temp: 18° - 21°
+Humidity: 30% - 37%
+Rain probability: 0%
+1h - 1h30m	1h30m - 2h
+Temp: 16° - 21°
+Humidity: 30% - 39%
+Rain probability: 0%	Temp: 17° - 21°
+Humidity: 27% - 35%
+Rain probability: 0% - 10%
+
+
+Start fuel: 90 liters
+
+Pit	Pitstop reason	Tyres condition	
+Fuel left	Refilled to	Pit time
+Stop 1
+(Lap 27)	No more fuel was left	16%	0%	87 liters	23.569s
+Stop 2
+(Lap 53)	No more fuel was left	19%	0%	87 liters	25.142s
+
+Tyres condition after finish: 20%
+
+Fuel left in the car after finish: 0 liters
+
+Blocked	Successful
+Overtaking attempts initiated:	2	2
+Overtaking attempts made upon you:	3	1
+
+Show financial analysis as:
+Table
+Graph
+Financial analysis of the last race
+Earnings
+Driver race position (1):	$8.000.000
+Driver qualifying position (2):	$450.000
+Sponsor money:	$1.000.000
+Costs
+Driver race win bonus:	$-40.000
+Driver salary:	$-950.524
+Staff salary:	$-350.000
+Facility costs:	$0
+Tyres contract (Pipirelli):	$-250.000
+ 
+Total:	$7.859.476
+ 
+Current balance:	$34.570.407
